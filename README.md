@@ -1,1 +1,1 @@
-# NX_Firmware 16.0.0
+# NX_Firmware 16.0.1
